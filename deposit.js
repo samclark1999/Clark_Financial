@@ -50,9 +50,9 @@ function Deposit(){
         <>
         <br/>
         Amount to deposit:
-        <input type="input" id="number" value={number} onChange={e => onChange(e.currentTarget.value)}></input> {/* input field */}
+        <input type="input" id="number" value={number} onChange={e => onChange(e.currentTarget.value)}></input> 
         <br/><br/>
-        {canSubmit ? (<button type="submit" className="btn btn-light" onClick={handleCreate}>Deposit</button>):(<></>)} {/* deposit button */}
+        {canSubmit ? (<button type="submit" className="btn btn-light" onClick={handleCreate}>Deposit</button>):(<></>)} 
         </>
       ):( 
         <>
