@@ -10,7 +10,7 @@ First clone the Clark_Financial Repo. Next you will run npx http-server to spin 
 ## License
 MIT License
 
-Copyright (c) 2021, John Williams, Sam Clark
+Copyright (c) 2021, Sam Clark
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
